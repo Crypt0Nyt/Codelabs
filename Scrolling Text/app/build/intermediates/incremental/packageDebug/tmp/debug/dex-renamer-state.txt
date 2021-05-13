@@ -1,0 +1,4 @@
+#Fri May 14 02:21:47 IST 2021
+base.0=D\:\\Study\\Codelabs\\Scrolling Text\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

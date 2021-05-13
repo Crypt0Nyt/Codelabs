@@ -1,0 +1,4 @@
+#Thu May 13 21:42:34 IST 2021
+base.0=D\:\\Study\\Codelabs\\HelloToast\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

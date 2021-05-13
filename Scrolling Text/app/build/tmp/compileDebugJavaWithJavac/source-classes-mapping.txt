@@ -1,0 +1,4 @@
+com/streamliners/scrollingtext/BuildConfig.java
+ com.streamliners.scrollingtext.BuildConfig
+com/streamliners/scrollingtext/MainActivity.java
+ com.streamliners.scrollingtext.MainActivity
