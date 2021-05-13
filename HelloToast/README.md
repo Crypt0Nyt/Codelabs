@@ -16,4 +16,4 @@ It shows toast and increament the counter
 ![toastL](https://user-images.githubusercontent.com/59164922/118153535-a3d66280-b433-11eb-8729-bb89e8aceddf.png)
 ![countL](https://user-images.githubusercontent.com/59164922/118153541-a5078f80-b433-11eb-8a7a-e4113488491b.png)
 
-## You can download the apk from [here](https://github.com/Crypt0Nyt/Codelabs/releases/download/version1/app-debug.apk)
+## You can download the apk from [here](https://github.com/Crypt0Nyt/Codelabs/releases/download/01.2-Part-B/app-debug.apk)
