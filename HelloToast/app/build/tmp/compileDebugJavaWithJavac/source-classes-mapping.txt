@@ -1,4 +1,0 @@
-com/streamliners/hellotoast/BuildConfig.java
- com.streamliners.hellotoast.BuildConfig
-com/streamliners/hellotoast/MainActivity.java
- com.streamliners.hellotoast.MainActivity
