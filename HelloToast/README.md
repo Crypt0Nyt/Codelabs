@@ -2,7 +2,7 @@
 
 Link to this Codelab is [here](https://developer.android.com/codelabs/android-training-layout-editor-part-a?index=..%2F..%2Fandroid-training&authuser=1#5)
 
-Link to the Part B of Android fundamentals 01.2 is [here]([Codelabs/HelloToast at 01.2_PartB · Crypt0Nyt/Codelabs · GitHub](https://github.com/Crypt0Nyt/Codelabs/tree/01.2_PartB/HelloToast))
+Link to the Part B of Android fundamentals 01.2 is [here](https://github.com/Crypt0Nyt/Codelabs/tree/01.2_PartB/HelloToast)
 
 ## This is a Hello Toast application
 
