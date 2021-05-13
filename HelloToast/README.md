@@ -1,10 +1,21 @@
-# This is a Hello Toast application For Tablet
+# Android fundamentals 01.2 (Part B)
 
-It shows toast and increament the counter
+Link to this Codelab is [here]([Android fundamentals 01.2 Part B: The layout editor](https://developer.android.com/codelabs/android-training-layout-editor-part-b?index=..%2F..%2Fandroid-training&authuser=1#5))
 
-## Here are some screenshots of the application in Tablet mode:
+## This is a Hello Toast application for Tablet mode
+
+Features:
+
+- It shows Toast on clicking the TOAST button
+
+- On pressing the COUNT button increaments the count display
+  
+  
+
+### You can download the apk from [here](https://github.com/Crypt0Nyt/Codelabs/releases/download/01.2-Part-B/app-debug.apk)
 
 ### Toast Button
+
 ![ToastP](https://user-images.githubusercontent.com/59164922/118153536-a46ef900-b433-11eb-9a5a-768497c3c1ec.png)
 
 ### Count Button
@@ -15,5 +26,3 @@ It shows toast and increament the counter
 
 ![toastL](https://user-images.githubusercontent.com/59164922/118153535-a3d66280-b433-11eb-8729-bb89e8aceddf.png)
 ![countL](https://user-images.githubusercontent.com/59164922/118153541-a5078f80-b433-11eb-8a7a-e4113488491b.png)
-
-## You can download the apk from [here](https://github.com/Crypt0Nyt/Codelabs/releases/download/01.2-Part-B/app-debug.apk)
