@@ -1,6 +1,22 @@
-# This is a Hello Toast application
 
-It shows toast and increament the counter
+
+# Android fundamentals 01.2 (Part A)
+
+Link to this Codelab is [here](https://developer.android.com/codelabs/android-training-layout-editor-part-a?index=..%2F..%2Fandroid-training&authuser=1#5)
+
+## This is a Hello Toast application
+
+#### Features:
+
+- It shows Toast on clicking the TOAST button
+
+- On pressing the COUNT button increaments the count display
+
+
+
+## You can download the apk from [here](https://github.com/Crypt0Nyt/Codelabs/releases/download/version1/app-debug.apk)
+
+## 
 
 ## Here are some screenshots of the application:
 
@@ -16,5 +32,3 @@ It shows toast and increament the counter
 
 ![Lcounter](https://user-images.githubusercontent.com/59164922/118051434-a5a21680-b39e-11eb-8fe9-b5b2b911d835.png)
 ![Ltoast](https://user-images.githubusercontent.com/59164922/118051439-a76bda00-b39e-11eb-9b8d-5b3716fb72bf.png)
-
-## You can download the apk from [here](https://github.com/Crypt0Nyt/Codelabs/releases/download/version1/app-debug.apk)
