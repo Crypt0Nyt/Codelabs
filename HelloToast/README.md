@@ -1,20 +1,19 @@
-# This is a Hello Toast application
+# This is a Hello Toast application For Tablet
 
 It shows toast and increament the counter
 
-## Here are some screenshots of the application:
+## Here are some screenshots of the application in Tablet mode:
 
 ### Toast Button
-
-![toast](https://user-images.githubusercontent.com/59164922/118051441-a76bda00-b39e-11eb-958e-4a3080c23eaf.png)
+![ToastP](https://user-images.githubusercontent.com/59164922/118153536-a46ef900-b433-11eb-9a5a-768497c3c1ec.png)
 
 ### Count Button
 
-![count](https://user-images.githubusercontent.com/59164922/118051442-a8047080-b39e-11eb-8748-a3f2eb8693ea.png)
+![CountP](https://user-images.githubusercontent.com/59164922/118153529-a33dcc00-b433-11eb-8ce2-267e2cfa7ce8.png)
 
 ### In Landscape
 
-![Lcounter](https://user-images.githubusercontent.com/59164922/118051434-a5a21680-b39e-11eb-8fe9-b5b2b911d835.png)
-![Ltoast](https://user-images.githubusercontent.com/59164922/118051439-a76bda00-b39e-11eb-9b8d-5b3716fb72bf.png)
+![toastL](https://user-images.githubusercontent.com/59164922/118153535-a3d66280-b433-11eb-8729-bb89e8aceddf.png)
+![countL](https://user-images.githubusercontent.com/59164922/118153541-a5078f80-b433-11eb-8a7a-e4113488491b.png)
 
 ## You can download the apk from [here](https://github.com/Crypt0Nyt/Codelabs/releases/download/version1/app-debug.apk)
