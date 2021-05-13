@@ -1,6 +1,6 @@
 # Android fundamentals 01.2 (Part B)
 
-Link to this Codelab is [here]([Android fundamentals 01.2 Part B: The layout editor](https://developer.android.com/codelabs/android-training-layout-editor-part-b?index=..%2F..%2Fandroid-training&authuser=1#5))
+Link to this Codelab is [here](https://developer.android.com/codelabs/android-training-layout-editor-part-b?index=..%2F..%2Fandroid-training&authuser=1#5)
 
 ## This is a Hello Toast application for Tablet mode
 
