@@ -1,2 +1,8 @@
 
 HelloToast/.idea/gradle.xml
+*.xml
+*.lock
+*.lock
+*.properties
+*.iml
+*.bin
