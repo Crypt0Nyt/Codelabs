@@ -36,9 +36,7 @@ public class MainActivity extends AppCompatActivity {
             }
             mColor = savedInstanceState.getInt(COLOR);
             mShowCountTextView.setBackgroundColor(mColor);
-
         }
-
     }
 
     private void setupLayout() {
