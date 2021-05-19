@@ -1,4 +1,6 @@
-com/streamliners/scrollingtext/MainActivity.java
- com.streamliners.scrollingtext.MainActivity
 com/streamliners/scrollingtext/BuildConfig.java
  com.streamliners.scrollingtext.BuildConfig
+com/streamliners/scrollingtext/databinding/ActivityMainBinding.java
+ com.streamliners.scrollingtext.databinding.ActivityMainBinding
+com/streamliners/scrollingtext/MainActivity.java
+ com.streamliners.scrollingtext.MainActivity
